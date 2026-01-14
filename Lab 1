@@ -17,14 +17,4 @@ To install a Linux environment using VirtualBox and Ubuntu in order to perform a
 ## Key Learning  
 I learned how virtualization works, how resources are allocated to a VM, and why a separate Linux environment is useful for secure testing.
 
-## Screenshots  
 
-<img width="445" height="295" alt="Screenshot 2025-11-24 195139" src="https://github.com/user-attachments/assets/f751d5cf-49f2-414c-a370-61ab4963d9f6" />
-
-<img width="573" height="156" alt="image" src="https://github.com/user-attachments/assets/24d033ef-0c4d-4eea-848a-3bbda730ccd3" />
-
-<img width="563" height="276" alt="image" src="https://github.com/user-attachments/assets/dc08f65f-90f8-4c8c-9aa6-04eed30dc5bf" />
-
-<img width="409" height="311" alt="image" src="https://github.com/user-attachments/assets/109026ea-fd3b-41e9-b66f-c5fe193f4bd5" />
-
-<img width="472" height="302" alt="image" src="https://github.com/user-attachments/assets/bbb7eab1-117a-4831-826b-315e519f6fd2" />

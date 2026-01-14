@@ -1,1 +1,30 @@
+# Lab 1 – VirtualBox & Ubuntu Setup
 
+## Purpose  
+To install a Linux environment using VirtualBox and Ubuntu in order to perform all server and scripting labs safely inside a virtual machine.
+
+## What I Did  
+- Downloaded and installed VirtualBox (first time using it).  
+- Downloaded Ubuntu ISO (large file, long download time).  
+- Created a new VM in VirtualBox.  
+- Allocated:  
+  - 4GB RAM  
+  - 20GB disk  
+  - 1 CPU  
+- Installed Ubuntu (took ~10 minutes copying files).  
+- Booted into Ubuntu and explored the system settings, networking and terminal.
+
+## Key Learning  
+I learned how virtualization works, how resources are allocated to a VM, and why a separate Linux environment is useful for secure testing.
+
+## Screenshots  
+
+<img width="445" height="295" alt="Screenshot 2025-11-24 195139" src="https://github.com/user-attachments/assets/f751d5cf-49f2-414c-a370-61ab4963d9f6" />
+
+<img width="573" height="156" alt="image" src="https://github.com/user-attachments/assets/24d033ef-0c4d-4eea-848a-3bbda730ccd3" />
+
+<img width="563" height="276" alt="image" src="https://github.com/user-attachments/assets/dc08f65f-90f8-4c8c-9aa6-04eed30dc5bf" />
+
+<img width="409" height="311" alt="image" src="https://github.com/user-attachments/assets/109026ea-fd3b-41e9-b66f-c5fe193f4bd5" />
+
+<img width="472" height="302" alt="image" src="https://github.com/user-attachments/assets/bbb7eab1-117a-4831-826b-315e519f6fd2" />

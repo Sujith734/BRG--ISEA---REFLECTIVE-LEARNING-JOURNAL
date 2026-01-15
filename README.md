@@ -10,3 +10,7 @@
 
 This repository documents my Reflective Learning Journal for all BRG-ISEA lab activities.
 Each lab entry includes screenshots, commands executed, detailed explanations, challenges encountered, and personal reflections.
+
+---
+
+JOURNAL TABLE OF CONTENTS

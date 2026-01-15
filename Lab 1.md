@@ -5,7 +5,6 @@
 To install a Linux environment using VirtualBox and Ubuntu in order to perform all server and scripting labs safely inside a virtual machine.
 
 ## What I Did  
-- What Was Done
 - VirtualBox was downloaded and installed for the first time.
 - The Ubuntu ISO file was downloaded (large file, took a long time).
 - A new virtual machine was created in VirtualBox.

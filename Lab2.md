@@ -1,4 +1,4 @@
-
+'
 # Lab 2 – Ubuntu Desktop & CLI Tools
 
 ## Purpose
@@ -9,7 +9,7 @@ To understand basic graphical and command-line tools in Ubuntu.
 
 - Explored the Ubuntu graphical interface, including Settings, Firefox, and File Manager.
 - Used terminal commands such as:
-  - 'ps -e' to view running processes
+  - `ps -e` to view running processes
 
 top and pressing 1 to display CPU cores
 

@@ -19,7 +19,7 @@ To understand basic graphical and command-line tools in Ubuntu.
 - Edited the `/etc/hosts` file to add a custom DNS entry called “GoogleEpicDNS”.
 - Installed the `whois` tool and retrieved domain information for google.com.
 
-##Key Learning
+## Key Learning
 
 This lab increased understanding of Linux command-line usage, file management, user administration, and basic networking tasks.
 

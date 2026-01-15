@@ -5,17 +5,19 @@
 To install a Linux environment using VirtualBox and Ubuntu in order to perform all server and scripting labs safely inside a virtual machine.
 
 ## What I Did  
-- Downloaded and installed VirtualBox (first time using it).  
-- Downloaded Ubuntu ISO (large file, long download time).  
-- Created a new VM in VirtualBox.  
-- Allocated:  
-  - 4GB RAM  
-  - 20GB disk  
-  - 1 CPU  
-- Installed Ubuntu (took ~10 minutes copying files).  
-- Booted into Ubuntu and explored the system settings, networking and terminal.
+- What Was Done
+- VirtualBox was downloaded and installed for the first time.
+- The Ubuntu ISO file was downloaded (large file, took a long time).
+- A new virtual machine was created in VirtualBox.
+- Resources were allocated as follows:
+- 4GB RAM
+- 20GB storage
+- 1 CPU
+- Ubuntu was installed, which took about 10 minutes to copy files.
+- The system was successfully booted into Ubuntu, and the settings, networking, and terminal were explored.
 
-## Key Learning  
-I learned how virtualization works, how resources are allocated to a VM, and why a separate Linux environment is useful for secure testing.
+## Key Learning
+
+This activity showed how virtualization works, how hardware resources are shared with a virtual machine, and why using a separate Linux environment is important for safe testing and practice.
 
 

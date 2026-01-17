@@ -1,4 +1,4 @@
-#Lab 6 - Total Cost of ownership (TCO)
+# #Lab 6 - Total Cost of ownership (TCO)
 
 Cloud Deployment
 

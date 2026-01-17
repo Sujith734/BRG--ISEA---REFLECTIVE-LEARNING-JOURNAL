@@ -9,8 +9,8 @@ I wanted to understand how Linux permissions and ownership work, and how they pr
 - First, I used  `ls -l ` to to check file permissions.
 - Then I used  `chmod ` to change the permissions.
 - At first I got some errors because I was in the wrong directory, so I learned to always check the path properly.
-I used  `sudo chown ` to change the file owner.
-I also learned that the user must already exist before I can change ownership to that user.
+- I used  `sudo chown ` to change the file owner.
+- I also learned that the user must already exist before I can change ownership to that user.
 
 ## Key Learning
 

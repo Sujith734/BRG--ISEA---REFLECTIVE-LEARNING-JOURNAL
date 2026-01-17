@@ -19,3 +19,9 @@ To install, configure, and manage the Apache2 web server on Ubuntu.
 This lab demonstrated how Linux services operate, how firewalls control network access, and how Apache delivers web content across a network.
 
 ## Screenshots
+<img width="767" height="455" alt="image" src="https://github.com/user-attachments/assets/b084f809-f5de-4cbc-a649-2d472de73a94" />
+
+<img width="871" height="371" alt="image" src="https://github.com/user-attachments/assets/e53cc839-4652-4fca-b415-3c093d32eb8f" />
+
+<img width="835" height="472" alt="image" src="https://github.com/user-attachments/assets/ab1b156d-dbdf-4734-b3e0-c72df5cf892c" />
+

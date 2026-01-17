@@ -20,5 +20,6 @@ To install a Linux environment using VirtualBox and Ubuntu in order to perform a
 This activity showed how virtualization works, how hardware resources are shared with a virtual machine, and why using a separate Linux environment is important for safe testing and practice.
 
 ## Screenshot
+<img width="445" height="295" alt="518165784-f751d5cf-49f2-414c-a370-61ab4963d9f6" src="https://github.com/user-attachments/assets/c959001c-9634-49d7-ad4c-419e6c5b8f06" />
 
 

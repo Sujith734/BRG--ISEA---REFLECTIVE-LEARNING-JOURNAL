@@ -10,6 +10,10 @@ I wanted to practice searching for files and extracting archive files.
 - I used `find` to search for files in the system.
 - I used `grep` to search for specific words inside files.
 
-Key Learning
+## Key Learning
 
 This lab helped me understand how Linux stores and organizes files. I also learned how to fix extraction errors and how searching works using find and grep.
+
+## Screenshots
+
+<img width="1067" height="466" alt="image" src="https://github.com/user-attachments/assets/01b9f70c-1143-4cc9-a9d4-148d2a0a56f8" />

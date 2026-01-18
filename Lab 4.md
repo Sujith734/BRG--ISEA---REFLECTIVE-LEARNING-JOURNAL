@@ -17,3 +17,7 @@ I wanted to understand how Linux permissions and ownership work, and how they pr
 This lab helped me understand how Linux protects files using permissions. I also learned why permission errors happen and how to fix them by checking the path and the user.
 
 ## Screeshots
+<img width="768" height="612" alt="image" src="https://github.com/user-attachments/assets/3b96b969-d1b9-433f-96b5-1306d3d63bcb" />
+
+<img width="751" height="436" alt="image" src="https://github.com/user-attachments/assets/0f281698-ef79-4810-b5c5-c901e0a2994d" />
+

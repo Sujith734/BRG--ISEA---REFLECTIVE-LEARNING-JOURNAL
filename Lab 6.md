@@ -54,4 +54,9 @@ No. For very light home use, an inkjet printer is usually cheaper. Since it is u
 - Good network support
 - Strong and durable build
 
+# Screenshot
+
+<img width="395" height="566" alt="image" src="https://github.com/user-attachments/assets/a833dce2-c0c5-4ec8-a7d5-2b3a193814cf" />
+
+
 

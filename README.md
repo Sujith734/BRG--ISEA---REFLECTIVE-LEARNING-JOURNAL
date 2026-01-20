@@ -15,4 +15,4 @@ Each lab entry includes screenshots, commands executed, detailed explanations, c
 
 JOURNAL TABLE OF CONTENTS
 
-
+https://github.com/Sujith734/BRG--ISEA---REFLECTIVE-LEARNING-JOURNAL/blob/0736e2925e379132081b26a943c9f5cb4104b8a6/Lab%201.md

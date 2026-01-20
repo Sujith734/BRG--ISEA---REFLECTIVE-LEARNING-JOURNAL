@@ -41,6 +41,7 @@ This lab increased understanding of Linux command-line usage, file management, u
 
 <img width="767" height="455" alt="image" src="https://github.com/user-attachments/assets/9ba4df7e-ab5e-48e0-909b-e105011ce50a" />
 
+<img width="712" height="397" alt="image" src="https://github.com/user-attachments/assets/11d62ecc-a3ba-4d4f-8164-990d235a5251" />
 
 
 

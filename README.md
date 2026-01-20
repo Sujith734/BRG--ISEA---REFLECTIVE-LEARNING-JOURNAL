@@ -14,4 +14,5 @@ Each lab entry includes screenshots, commands executed, detailed explanations, c
 ---
 
 JOURNAL TABLE OF CONTENTS
-Lab 1.md
+
+

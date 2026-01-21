@@ -12,7 +12,11 @@ This repository documents is my Reflective Learning Journal for all BRG-ISEA lab
 Each lab entry includes screenshots, commands executed, detailed explanations, challenges encountered, and personal reflections.
 
 ---
-
-JOURNAL TABLE OF CONTENTS
-
-- [**Lab 1 – VirtualBox & Ubuntu Setup**](lab1.md)
+## Notes
+- All screenshots are shown inside each lab file.  
+- Each lab page contains:
+  - My screenshots  
+  - Steps I performed  
+  - Commands used  
+  - Issues faced  
+  - Reflection  
